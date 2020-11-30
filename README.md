@@ -1,4 +1,4 @@
-[![GPL-3.0 License][license-shield]][license-url] [![Docker Pulls][docker-shield]][docker-url]
+[![GPL-3.0 License][license-shield]][license-url] [![Docker Pulls][docker-shield]][docker-url] [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 <br />
 <p align="center">
